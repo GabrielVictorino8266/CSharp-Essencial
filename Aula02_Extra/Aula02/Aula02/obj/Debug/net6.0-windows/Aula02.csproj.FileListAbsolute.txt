@@ -1,0 +1,17 @@
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\bin\Debug\net6.0-windows\Aula02.exe
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\bin\Debug\net6.0-windows\Aula02.deps.json
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\bin\Debug\net6.0-windows\Aula02.runtimeconfig.json
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\bin\Debug\net6.0-windows\Aula02.dll
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\bin\Debug\net6.0-windows\Aula02.pdb
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\obj\Debug\net6.0-windows\Aula02.csproj.AssemblyReference.cache
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\obj\Debug\net6.0-windows\Aula02.Form1.resources
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\obj\Debug\net6.0-windows\Aula02.csproj.GenerateResource.cache
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\obj\Debug\net6.0-windows\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\obj\Debug\net6.0-windows\Aula02.AssemblyInfoInputs.cache
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\obj\Debug\net6.0-windows\Aula02.AssemblyInfo.cs
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\obj\Debug\net6.0-windows\Aula02.csproj.CoreCompileInputs.cache
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\obj\Debug\net6.0-windows\Aula02.dll
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\obj\Debug\net6.0-windows\refint\Aula02.dll
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\obj\Debug\net6.0-windows\Aula02.pdb
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\obj\Debug\net6.0-windows\Aula02.genruntimeconfig.cache
+E:\Visual Midia\Programacao\CSharp Essencial\Aula02_Extra\Aula02\Aula02\obj\Debug\net6.0-windows\ref\Aula02.dll
