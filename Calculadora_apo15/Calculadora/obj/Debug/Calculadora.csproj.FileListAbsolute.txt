@@ -1,0 +1,29 @@
+D:\1-DESENVOLVIMENTO\4- Visual Studio 2012 (C#)\1- Estruturas\Aula 14 - Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\1-DESENVOLVIMENTO\4- Visual Studio 2012 (C#)\1- Estruturas\Aula 14 - Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\1-DESENVOLVIMENTO\4- Visual Studio 2012 (C#)\1- Estruturas\Aula 14 - Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\1-DESENVOLVIMENTO\4- Visual Studio 2012 (C#)\1- Estruturas\Aula 14 - Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+D:\1-DESENVOLVIMENTO\4- Visual Studio 2012 (C#)\1- Estruturas\Aula 14 - Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\1-DESENVOLVIMENTO\4- Visual Studio 2012 (C#)\1- Estruturas\Aula 14 - Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\1-DESENVOLVIMENTO\4- Visual Studio 2012 (C#)\1- Estruturas\Aula 14 - Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\1-DESENVOLVIMENTO\4- Visual Studio 2012 (C#)\1- Estruturas\Aula 14 - Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\1-DESENVOLVIMENTO\4- Visual Studio 2012 (C#)\1- Estruturas\Aula 14 - Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Documentos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Documentos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Documentos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Documentos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Documentos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Documentos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Documentos\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+C:\Documentos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Documentos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\hugo.VM\Desktop\Documentos\Apostila\Calculadora (inicial apostila)\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\hugo.VM\Desktop\Documentos\Apostila\Calculadora (inicial apostila)\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\hugo.VM\Desktop\Documentos\Apostila\Calculadora (inicial apostila)\Calculadora\obj\Debug\Calculadora.pdb
+E:\Visual Midia\Programacao\CSharp-Essencial\Calculadora_apo15\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+E:\Visual Midia\Programacao\CSharp-Essencial\Calculadora_apo15\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+E:\Visual Midia\Programacao\CSharp-Essencial\Calculadora_apo15\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+E:\Visual Midia\Programacao\CSharp-Essencial\Calculadora_apo15\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\Visual Midia\Programacao\CSharp-Essencial\Calculadora_apo15\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+E:\Visual Midia\Programacao\CSharp-Essencial\Calculadora_apo15\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+E:\Visual Midia\Programacao\CSharp-Essencial\Calculadora_apo15\Calculadora\obj\Debug\Calculadora.exe
+E:\Visual Midia\Programacao\CSharp-Essencial\Calculadora_apo15\Calculadora\obj\Debug\Calculadora.pdb

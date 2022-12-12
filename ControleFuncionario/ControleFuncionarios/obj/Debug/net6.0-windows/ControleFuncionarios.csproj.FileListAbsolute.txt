@@ -1,0 +1,17 @@
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\bin\Debug\net6.0-windows\ControleFuncionarios.exe
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\bin\Debug\net6.0-windows\ControleFuncionarios.deps.json
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\bin\Debug\net6.0-windows\ControleFuncionarios.runtimeconfig.json
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\bin\Debug\net6.0-windows\ControleFuncionarios.dll
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\bin\Debug\net6.0-windows\ControleFuncionarios.pdb
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\obj\Debug\net6.0-windows\ControleFuncionarios.csproj.AssemblyReference.cache
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\obj\Debug\net6.0-windows\ControleFuncionarios.frmPrincipal.resources
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\obj\Debug\net6.0-windows\ControleFuncionarios.csproj.GenerateResource.cache
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\obj\Debug\net6.0-windows\ControleFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\obj\Debug\net6.0-windows\ControleFuncionarios.AssemblyInfoInputs.cache
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\obj\Debug\net6.0-windows\ControleFuncionarios.AssemblyInfo.cs
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\obj\Debug\net6.0-windows\ControleFuncionarios.csproj.CoreCompileInputs.cache
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\obj\Debug\net6.0-windows\ControleFuncionarios.dll
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\obj\Debug\net6.0-windows\refint\ControleFuncionarios.dll
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\obj\Debug\net6.0-windows\ControleFuncionarios.pdb
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\obj\Debug\net6.0-windows\ControleFuncionarios.genruntimeconfig.cache
+E:\Visual Midia\Programacao\CSharp-Essencial\ControleFuncionario\ControleFuncionarios\obj\Debug\net6.0-windows\ref\ControleFuncionarios.dll
